@@ -43,5 +43,20 @@
 </description>
     </item>
     
+    <item>
+      <title>test2</title>
+      <link>https://mathiasarmstrong.github.io/hugo-test/post/2017-03-30-test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathiasarmstrong.github.io/hugo-test/post/2017-03-30-test2/</guid>
+      <description>
+
+&lt;h2 id=&#34;a-new-post&#34;&gt;A New Post&lt;/h2&gt;
+
+&lt;p&gt;new variant
+Enter text in &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

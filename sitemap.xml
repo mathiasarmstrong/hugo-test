@@ -45,4 +45,13 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>https://mathiasarmstrong.github.io/hugo-test/tags/variant-test-on-prose/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mathiasarmstrong.github.io/hugo-test/post/2017-03-30-test2/</loc>
+  </url>
+  
 </urlset>
