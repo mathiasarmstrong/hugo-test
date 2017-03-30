@@ -19,5 +19,15 @@
 </description>
     </item>
     
+    <item>
+      <title>hello 2</title>
+      <link>https://mathiasarmstrong.github.io/hugo-test/post/hello2/</link>
+      <pubDate>Thu, 30 Mar 2017 09:49:25 -0700</pubDate>
+      
+      <guid>https://mathiasarmstrong.github.io/hugo-test/post/hello2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;hello&lt;/strong&gt;##&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
